@@ -131,7 +131,7 @@ float arrowRatio = 0.5f;
 float arrowLength = 85.0f;
 //float arrowLength = 80.0f originalmente;
 
-BasicStroke stroke = ( BasicStroke ) g.getStroke();
+BasicStroke stroke = ( BasicStroke ) g.getStroke(); //stroke
 
 float endX = 350.0f;
 
