@@ -158,8 +158,8 @@ g.setColor ( Color.BLUE );
 g.fill ( path );
 
 // move stem back a bit
-g.setColor ( Color.RED );
-g.draw ( new Line2D.Float ( 50.0f, 0.0f, veeX - arrowLength * 0.5f, 0.0f ) );
+g.setColor ( Color.GREEN );
+g.draw ( new Line2D.Float ( 70.0f, 1.0f, veeX - arrowLength * 0.5f, 1.0f ) );
 }
 }
 }
